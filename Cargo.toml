@@ -3,7 +3,7 @@ name = "rustcode"
 version = "0.1.0"
 authors=["Yuno"]
 edition = "2024"
-rust-version="1.87.0"
+rust-version="1.88.0"
 description="A Repo about The Rust Programming Language"
 documentation=""
 readme="./README.md"
@@ -11,6 +11,6 @@ readme="./README.md"
 # repository =""
 license = "MIT OR Apache-2.0"
 keywords = ["rust", "code","practise"]
-#categories=[""]
+# categories=[""]
 [dependencies]
 
