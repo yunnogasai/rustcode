@@ -10,7 +10,7 @@ readme="./README.md"
 # homepage =""
 # repository =""
 license = "MIT OR Apache-2.0"
-keywords = ["rust", "code","practise"]
+keywords = ["rust", "code","practice"]
 # categories=[""]
 [dependencies]
 
