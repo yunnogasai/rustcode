@@ -10,7 +10,20 @@ readme="./README.md"
 # homepage =""
 # repository =""
 license = "MIT OR Apache-2.0"
+# license-file =""
 keywords = ["rust", "code","practice"]
-# categories=[""]
+# categories =[""]
+# workspace =""
+# build =""
+# links =""
+# exclude =[""]
+# include =[""]
+# publish =false
+# autolib = false
+# autobins = false
+# autoexamples = false
+# autotests = false
+# autobenches = false
+# resolver = "3"
 [dependencies]
 
